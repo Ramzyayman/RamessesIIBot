@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'NzM3MzE4ODU3OTQwNzk1NDM0.Xx7nsg.Ngpbgw6NuHMCBvIwMrWdNL-_YvY',
         prefix: '-',
-        activity: 'developed by Ramesses.',
+        activity: `serving ${client.guilds.cache.size} servers`,
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
